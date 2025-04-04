@@ -1,0 +1,18 @@
+{
+  "name": "pdf-to-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-poppler": "^0.2.1",
+    "pdf2pic": "^3.1.4",
+    "sharp": "^0.33.5",
+    "spritesmith": "^3.5.1"
+  }
+}
